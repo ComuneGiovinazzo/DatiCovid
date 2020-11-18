@@ -7,10 +7,10 @@
 Banca dati relativa ai numeri dei casi positivi su Giovinazzo dall’inizio della pandemia da Covid-19. I dati di riferimento sono i dati comunicati dalla Prefettura al Comune e rielaborati e rivisti dall’ente al netto di refusi. La data degli aggiornamenti non coincide con la data della comunicazione o dell’invio degli stessi bensì con la data che è riportata nella tabella riportante i dati dei contagiati sul territorio. I dati relativi ai tamponi effettuati, ai ricoveri, alle persone in quarantena, alle dimissioni o ai decessi non sono nelle disponibilità del Comune.
 
 ## Attualmente positivi
-(https://github.com/ComuneGiovinazzo/DatiCovid/raw/main/giovinazzo-attualmente-positivi.png)](https://bit.ly/giovinazzo-dati-covid-latest-xlsx)<br>
+![giovinazzo-attualmente-positivi](https://github.com/ComuneGiovinazzo/DatiCovid/raw/main/giovinazzo-attualmente-positivi.png)
 
 ## Totale contagiati ed incremento giornaliero
-(https://github.com/ComuneGiovinazzo/DatiCovid/raw/main/giovinazzo-totale-contagiati.png)](https://bit.ly/giovinazzo-dati-covid-latest-xlsx)<br>
+![giovinazzo-attualmente-positivi](https://github.com/ComuneGiovinazzo/DatiCovid/raw/main/giovinazzo-totale-contagiati.png)
 
 ## Avvisi
 ```diff
